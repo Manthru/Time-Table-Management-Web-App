@@ -1,7 +1,10 @@
 # 🗓️ Time Table Management System
 
-A full-stack web application to create, manage, and visualize academic timetables. Built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js) with a focus on user roles and dynamic scheduling.
-
+This is a Web-based time table management application for IIT Indore to stream line courses scheduling and
+communication among administrators , students, and professors. The app allows admins to create and manage
+courses and timetables, enables students to view schedules and receive notifications and permit professors to request
+timinig changes and conduct polls for suitable time slots , replacing current inefficient Excel-based system with a
+user friendly , centralised platform.
 ## 🚀 Features
 
 - 🔐 Role-based authentication (Admin, Faculty, Student)
