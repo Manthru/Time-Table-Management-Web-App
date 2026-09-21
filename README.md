@@ -5,7 +5,7 @@ communication among administrators , students, and professors. The app allows ad
 courses and timetables, enables students to view schedules and receive notifications and permit professors to request
 timinig changes and conduct polls for suitable time slots , replacing current inefficient Excel-based system with a
 user friendly , centralised platform.
-## 🚀 Features
+### 🚀 Features
 
 - 🔐 Role-based authentication (Admin, Faculty, Student)
 - 📅 Create and manage class timetables dynamically
